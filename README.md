@@ -1,4 +1,4 @@
-Opis Database (Opiz2)
+Opis Database
 =============
 [![Build Status](https://travis-ci.org/opis/database.png)](https://travis-ci.org/opis/database)
 [![Latest Stable Version](https://poser.pugx.org/opis/database/version.png)](https://packagist.org/packages/opis/database)
